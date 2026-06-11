@@ -145,20 +145,24 @@ Recommended security measures:
 
 # Roadmap
 
-## Q1 2026
+## Q2 2026
 
 - Lending contracts
 - Website launch
 - Testnet
 
-## Q2 2026
+## Q3 2026
 
 - Mainnet
 - Borrowing markets
 - DAO governance
 
-## Q3 2026
+## Q4 2026
 
 - AI risk engine
 - Cross-chain lending
 - Mobile application
+
+## Beyond 2027
+
+- Mobile Application
